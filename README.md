@@ -36,9 +36,23 @@
 ## Construido con 🛠️
 _Lenguajes que utilize para crear el proyecto: _
 
-* Java
-* MSQL
-* BIBLIOTECA JCalendar
+* ![MySQl](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL") Donde se desarrollo la **base de datos**  relacional.
+
+* ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) Seguimineto del desarrollo de este programa. (Proporcionado por el equipo de **Alura Latam**).
+
+ * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "Java") Lenguage principal en el que fue desarrollado el programa, Java(TM) SE 19.0.2
+
+* ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) Control del versiones del proyecto.
+
+* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma") Para el diseño de la interfaz
+
+* ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) Desarrollo del Readme
+
+### :small_orange_diamond: Librerias (jar) utilizadas:
+![Driver1](https://img.shields.io/badge/Libreria-JCalendar_1.4-orange?)
+![Driver2](https://img.shields.io/badge/Libreria%20-AbsoluteLayout-green?)
+![Driver3](https://img.shields.io/badge/Libreria%20-mysql_Conector_j_8.0.32_-blue?)
+![Driver4](https://img.shields.io/badge/Libreria%20-itext_pdf_5.0.3-red?)
 
 ## Autores ✒️
 _Los que ayudaron a crear este proyecto:_
@@ -52,6 +66,8 @@ _Los que ayudaron a crear este proyecto:_
 Aun seguire mejorando el proyecto - Saludos.😊
 ---
 ## Redes sociales
- * Mi likendin ->  [Kevin Darinel Salas Pérez](https://www.linkedin.com/in/kevin-salas-perez) 😊
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevin_tfk?igshid=MzNlNGNkZWQ4Mg==) 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-salas-perez) 
+* [![Github](https://img.shields.io/badge/github-%23171515.svg?logo=GitHub&logoColor=white)](https://github.com/kevinsalass) 
 
 ⌨️ con ❤️ por [Kevinsalass](https://github.com/kevinsalass) 😊
