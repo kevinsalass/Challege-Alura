@@ -1,13 +1,12 @@
-# Challenge One| Hotel Alura | JAVA BACKEND  
-<p align="center">
-  <img src="https://github.com/kevinsalass/Challege-Alura/blob/master/src/main/java/imagenes/lOGO-50PX.png" />
-</p>
+<img align="right"  width="100" heigth="100"  src="https://github.com/kevinsalass/Challege-Alura/blob/master/src/main/java/imagenes/lOGO-50PX.png"/>
 
+# *Challenge One| Hotel Alura | JAVA BACKEND*
 ---
+
 <h1 align="center">DESCRIPCIÓN</h1>
 <p align="justigy">El proyecto hotel Alura fue creado con un Maven desarrollado con Java, haciendo CRUD con java, utilizando Mysql como bases de datos, donde permite al usuario agregar el registro de la reserva y el huesped, asi mismo permmite buscar, editar y eliminar los registro de alguna reserva o huesped. Tambien aplicando patrones de diseño, para mejor eficaz del codigo.</p>
 
-# PROYECTO
+# PROYECTO 📁 
 ---
 <h2 align="center">Menu Principal</h2>
 
@@ -36,23 +35,21 @@
 ## Construido con 🛠️
 _Lenguajes que utilize para crear el proyecto: _
 
-* ![MySQl](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL") Donde se desarrollo la **base de datos**  relacional.
+* ![MySQl](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL") 
 
-* ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) Seguimineto del desarrollo de este programa. (Proporcionado por el equipo de **Alura Latam**).
+* ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 
- * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "Java") Lenguage principal en el que fue desarrollado el programa, Java(TM) SE 19.0.2
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "Java") 
+   
+* ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-* ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) Control del versiones del proyecto.
+* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma")
 
-* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma") Para el diseño de la interfaz
-
-* ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) Desarrollo del Readme
+* ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### :small_orange_diamond: Librerias (jar) utilizadas:
 ![Driver1](https://img.shields.io/badge/Libreria-JCalendar_1.4-orange?)
-![Driver2](https://img.shields.io/badge/Libreria%20-AbsoluteLayout-green?)
 ![Driver3](https://img.shields.io/badge/Libreria%20-mysql_Conector_j_8.0.32_-blue?)
-![Driver4](https://img.shields.io/badge/Libreria%20-itext_pdf_5.0.3-red?)
 
 ## Autores ✒️
 _Los que ayudaron a crear este proyecto:_
